@@ -3,21 +3,21 @@
 
 @font-face {
     font-family: 'Reader Medium';
-    src: url('fonts/.eot'), url('fonts/Reader/reader-medium.otf') format('opentype');
+    src: url('fonts/.eot'), url('reader-medium.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Reader Regular';
-    src: url('fonts/.eot'), url('fonts/Reader/reader-regular.otf') format('opentype');
+    src: url('fonts/.eot'), url('reader-regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Tiempos Regular';
-    src: url('fonts/.eot'), url('fonts/Tiempos/TiemposText-Regular.otf') format('opentype');
+    src: url('fonts/.eot'), url('TiemposText-Regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
@@ -26,21 +26,21 @@
 
 @font-face {
     font-family: 'Apercu Mono Medium';
-    src: url('fonts/.eot'), url('fonts/Apercu_Mono/apercu-mono-medium.otf') format('opentype');
+    src: url('fonts/.eot'), url('apercu-mono-medium.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Apercu Mono Regular';
-    src: url('fonts/.eot'), url('fonts/Apercu_Mono/apercu-mono-regular.otf') format('opentype');
+    src: url('fonts/.eot'), url('apercu-mono-regular.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
 
 @font-face {
     font-family: 'Apercu Mono Light';
-    src: url('fonts/.eot'), url('fonts/Apercu_Mono/apercu-mono-light.otf') format('opentype');
+    src: url('fonts/.eot'), url('apercu-mono-light.otf') format('opentype');
     font-weight: normal;
     font-style: normal;
 }
